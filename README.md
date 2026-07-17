@@ -72,7 +72,12 @@ $$
 $$
 \Phi_t = I(U_t, \text{Soul}_t)
 $$
+
 Intention emerges from internal state ($U$) and core identity ($\text{Soul}$).
+
+**Soul Definition**  
+In this framework, **Soul** is defined as a hypothetical persistent identity/information structure that maintains continuity of an agent's internal state across transformations.  
+It does not refer to a scientifically established entity, but functions as a conceptual variable representing identity continuity, internal coherence, and long-term state persistence within the Ω-UGT model.
 
 #### HME : Causal Structure Mapping
 $$
