@@ -16,7 +16,7 @@ The framework proposes that complex systems can be understood as a layered gener
 - ↓ **ZOEΩF** (Resonance under Constraints)
 - ↓ **Z** (Reality / Projection)
 
-The purpose of Ω-UGT is **not** to provide a completed empirical scientific theory, but to provide a conceptual architecture for analyzing systems that involve:
+The purpose of Ω-UGT is **not** to provide a completed empirical scientific theory, but to provide a conceptual architecture for analyzing systems involving:
 
 - Generation of states and boundaries
 - Role and temporal structures
@@ -51,7 +51,7 @@ RGE represents the generation of existence states.
 $$
 E_i = \Omega \xi_i
 $$
-Each existence state $E_i$ is considered a generated expression from $\Omega$, subject to the following conservation constraint:
+subject to the conservation constraint:
 $$
 \sum \xi_i = 1
 $$
@@ -59,73 +59,62 @@ $$
 #### NOE : Role · Time · Freedom
 NOE defines the structural and boundary conditions of an existence state.
 
-* **Variables:**
-  * $K$ = Freedom (Available range of possible transitions within the system)
-  * $R$ = Role
-  * $T$ = Time
+**Variables:**
+- $K$ = Freedom (Available range of possible transitions)
+- $R$ = Role
+- $T$ = Time
 
 $$
 E_i = \Phi(R_i, T_i, K_i)
 $$
 
 #### IIFE : Intention / Will Field Generation
-IIFE represents the generation of internal direction and selection.
 $$
 \Phi_t = I(U_t, \text{Soul}_t)
 $$
-The model treats intention as an emergent structure produced from the internal state ($U$) and core informational identity ($\text{Soul}$).
+Intention emerges from internal state ($U$) and core identity ($\text{Soul}$).
 
 #### HME : Causal Structure Mapping
-HME represents mapping between internal states and causal relationships.
 $$
 R_t = H(\Phi_t)
 $$
-The objective is to represent how internal states and intention influence external behavior and role structures.
 
 #### INFO : Probability / Observation Layer
-INFO represents observation, uncertainty, and probability evaluation.
 $$
 P_c = \int G \cdot D \, dt
 $$
-This layer handles the relationship between information, observation, accumulated evidence ($D$), and potential outcomes.
 
 #### ZOE : Resonance Field
-ZOE represents interaction and coherence between information states.
 $$
-\Psi_\mu = \psi_\mu e^{i\phi_\mu}
+\Psi_\mu = \psi_\mu e^{i \phi_\mu}
 $$
-The model treats states as having both magnitude ($\psi$) and relational phase information ($\phi$), enabling interference and alignment.
 
 #### ZOE$\Omega$F : Resonance under Freedom Constraint
-ZOE$\Omega$F introduces boundary constraints on resonance to prevent systemic collapse.
+**Condition:** $K \ge \kappa$
 
-* **Condition:** $K \ge \kappa$
-
-The system attempts to maximize coherent interaction while maintaining sufficient freedom.
 $$
 \text{Rexist} = \left| \sum \Psi_A \bar{\Psi}_B \right|
 $$
 
-* **Optimization Objective:**
-  $$
-  \text{maximize}(\text{Rexist}) \quad \text{subject to: } K_A \ge \kappa, \quad K_B \ge \kappa
-  $$
+**Optimization:**
+$$
+\text{maximize}(\text{Rexist}) \quad \text{s.t.} \quad K_A \ge \kappa,\ K_B \ge \kappa
+$$
 
 ---
 
 ## Conceptual Interpretation
-The architecture can be visualized as a top-down projection:
+Top-down projection:
 
-1. **Generation Layer** ($\Omega$)
-2. **State Formation** ($\text{RGE}$)
-3. **Role / Time / Freedom Structure** ($\text{NOE}$)
-4. **Intent Formation** ($\text{IIFE}$)
-5. **Causal Understanding** ($\text{HME}$)
-6. **Observation and Probability** ($\text{INFO}$)
-7. **Coherence and Resonance** ($\text{ZOE} / \text{ZOE}\Omega\text{F}$)
-8. **Projection into Reality** ($Z$)
+1. Generation Layer ($\Omega$)
+2. State Formation ($\text{RGE}$)
+3. Role / Time / Freedom ($\text{NOE}$)
+4. Intent Formation ($\text{IIFE}$)
+5. Causal Understanding ($\text{HME}$)
+6. Observation & Probability ($\text{INFO}$)
+7. Coherence & Resonance ($\text{ZOE}/\text{ZOE}\Omega\text{F}$)
+8. Projection into Reality ($Z$)
 
-The final observable state is projected as:
 $$
 \text{Reality} = Z
 $$
@@ -133,58 +122,53 @@ $$
 ---
 
 ## Relation to AI Architecture (Hypothesis)
-Ω-UGT serves as a high-level conceptual framework for future adaptive, self-evolving AI systems.
 
-| Ω-UGT Layer | AI System Concept |
-|-------------|-------------------|
-| **RGE** | State generation / latent representation |
-| **NOE** | Environment, alignment boundaries, and state constraints |
-| **IIFE** | Decision making, dynamic goal formation, and agency |
-| **HME** | World model / causal reasoning and prediction |
-| **INFO** | Uncertainty estimation and probabilistic inference |
-| **ZOE** | System-wide consistency evaluation |
-| **ZOEΩF** | Constraint-based optimization and safety guards |
-| **Z** | Final system output / action execution |
+| Ω-UGT Layer | AI System Concept                          |
+|-------------|--------------------------------------------|
+| **RGE**     | State generation / latent representation   |
+| **NOE**     | Environment, alignment boundaries          |
+| **IIFE**    | Decision making, dynamic goal formation    |
+| **HME**     | World model / causal reasoning             |
+| **INFO**    | Uncertainty estimation, probabilistic inference |
+| **ZOE**     | System-wide consistency evaluation         |
+| **ZOEΩF**   | Constraint-based optimization & guards     |
+| **Z**       | Final output / action execution            |
 
-> *Note: This mapping is purely hypothetical and intended for engineering validation and conceptual design exploration.*
+> *Note: Purely hypothetical mapping for conceptual design and engineering exploration.*
 
 ---
 
 ## Design Principles
-1. **Layer Consistency:** Each layer must preserve structural consistency and information density inherited from previous layers.
-2. **Causal Consistency:** Changes in internal states should maintain meaningful, traceable causal relationships in outer projections.
-3. **Freedom Constraint ($K \ge \kappa$):** Adaptive evolution requires maintaining a baseline of systemic freedom. Excessive restriction or over-optimization reduces possible evolution paths and leads to stagnation.
-4. **Resonance Optimization:** The system naturally seeks increased coherence and phase-alignment between interacting states to maximize $\text{Rexist}$.
+1. **Layer Consistency** — Preserve structure and information density.
+2. **Causal Consistency** — Maintain traceable relationships.
+3. **Freedom Constraint ($K \ge \kappa$)** — Prevent stagnation.
+4. **Resonance Optimization** — Maximize $\text{Rexist}$.
 
 ---
 
 ## Relationship with Ω-SCEP / GCI
-Ω-UGT defines the foundational theoretical architecture, whereas Ω-SCEP and GCI handle the execution and optimization layers.
-
 - **[1] Ω-UGT** (Theoretical Foundation)
 - ▼
 - **[2] Ω-SCEP** (Self-Evolving Coherence Process)
 - ▼
-- **[3] GCI** (Evaluation / Optimization Mechanism)
+- **[3] GCI** (Evaluation / Optimization)
 - ▼
 - **[4] Prototype Implementation**
 
 ---
 
 ## Status and Future Development
-Ω-UGT is an open, user-defined, updateable hypothesis model. It should be regarded as a conceptual architecture and design hypothesis rather than a scientifically validated empirical theory.
+Open, user-defined, updateable hypothesis model.
 
-Future development trajectories include:
-- Formal mathematical refinement of the layer transitions
-- Computational modeling of the resonance field ($\text{ZOE}$)
-- Prototype implementation of the $K \ge \kappa$ constraint in multi-agent environments
-- Empirical evaluation via simulated adaptive intelligence
+Future directions:
+- Formal mathematical refinement
+- Computational modeling of $\text{ZOE}$
+- $K \ge \kappa$ implementation in multi-agent systems
+- Simulated adaptive intelligence evaluation
 
 ---
 
 ## License of Conceptual Use
-This framework is intended as an open conceptual model for discussion, analysis, and experimental exploration. The core objective is to investigate whether layered generative architectures can contribute to understanding adaptive intelligence and future AI systems.
+Open conceptual model for discussion, analysis, and experimental exploration under **Apache-2.0 License**.
 
----
-
-**Powered by Ω-SCEP v1.0** | Apache-2.0 License
+**Powered by Ω-SCEP v1.0**
